@@ -1,6 +1,6 @@
-# Bitcoin Genesis
+# NewAge
 
-Bitcoin Genesis is Bitcoin Core clone.
+NewAge is Bitcoin Core clone.
 
 You can download Win32-client from "Releases": https://github.com/bitcoingenesis/bitcoingenesis/releases
 
